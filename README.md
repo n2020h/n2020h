@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @n2020h
-- 👀 I’m interested in Python coding and in blockchain development.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on a DEFI project that delivers 
+- 👀 I’m interested in blockchain development.
+- 🌱 I’m currently learning Python and Solidity.
+- 💞️ I’m looking to collaborate on a DEFI project where the portfolio includes physical assets.
 - 📫 You can reach me on Telegram @CaptNeems
 
 <!---
