@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Neema. 
 - 👀 I’m a back end developer currently building skills in data science. 
-- 🌱 I work well in Python and most query languages. Also have basic skills in C#.
+- 🌱 I work well in Python and most query languages. I also have basic skills in C#.
 - 📫 You can reach me on Telegram @CaptNeems
 
 <!---
