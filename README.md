@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @n2020h
-- 👀 I’m interested in blockchain development.
-- 🌱 I’m currently learning Python and Solidity.
-- 💞️ I’m looking to collaborate on a DEFI project where the portfolio includes physical assets.
+- 👋 Hi, my name is Neema. 
+- 👀 I’m a back end developer currently building skills in data science. 
+- 🌱 I work well in Python and most query languages. Also have basic skills in C#.
 - 📫 You can reach me on Telegram @CaptNeems
 
 <!---
