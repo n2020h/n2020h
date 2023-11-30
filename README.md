@@ -1,7 +1,8 @@
 - 👋 Hi, my name is Neema. 
-- 👀 I’m a back end developer currently building skills in data science. 
-- 🌱 I work well in Python and most query languages. I also have basic skills in C#.
-- 📫 You can reach me on Telegram @CaptNeems
+- 👀 I’m a full-stack software developer, currently building skills in data science. 
+- 🌱 I work well in Python and most query languages, including SQL.
+- Other skills include Javascript, C#, html, and css.
+- 📫 You can reach me @linkedin.com/in/neema-humphries
 
 <!---
 n2020h/n2020h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
